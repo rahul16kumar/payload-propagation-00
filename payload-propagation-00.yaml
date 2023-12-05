@@ -1,0 +1,11 @@
+id: payload-propagation-00
+name: payload-propagation-00
+description: payload-propagation-00
+category: Custom
+type: custom
+resourceLevelSupported: true
+encryptionSupported: false
+standalone: true
+requiredCharacteristics: []
+providedCharacteristics: []
+configuration: []
